@@ -1,5 +1,13 @@
 # SOLIN API
 
+Integrantes do grupo
+Nome	RM
+Rodrigo Silva	565162
+Nickolas Davi	564105
+Samara Vilela	566133
+Natália Cristina	564099
+Otávio Ferreira	565960
+
 > "O cuidado que protege o seu pet"
 
 API REST desenvolvida em ASP.NET Core para o sistema SOLIN, plataforma de monitoramento contínuo de saúde de pets com integração IoT e IA.
