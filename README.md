@@ -1,12 +1,14 @@
 # SOLIN API
 
-Integrantes do grupo
-Nome	RM
-Rodrigo Silva	565162
-Nickolas Davi	564105
-Samara Vilela	566133
-Natália Cristina	564099
-Otávio Ferreira	565960
+## Integrantes do Grupo
+
+| Nome | RM |
+|---|---|
+| Rodrigo Silva | 565162 |
+| Nickolas Davi | 564105 |
+| Samara Vilela | 566133 |
+| Natália Cristina | 564099 |
+| Otávio Ferreira | 565960 |
 
 > "O cuidado que protege o seu pet"
 
@@ -43,7 +45,7 @@ A SOLIN resolve o principal problema dos apps de saúde animal: a falta de uso d
 
 **1. Clone o repositório**
 ```bash
-git clone https://github.com/seu-usuario/SolinAPI.git
+git clone https://github.com/otavioxxt/SolinAPI.git
 cd SolinAPI
 ```
 
@@ -161,19 +163,3 @@ Severidades: `BAIXA`, `MEDIA`, `ALTA`
 ---
 
 ## Estrutura do Banco de Dados
-
-```
-tb_tutor       → cadastro dos tutores
-tb_pet         → cadastro dos pets (vinculado ao tutor)
-tb_evento      → eventos do pet (check-in, passeio, sensor IoT)
-tb_historico   → histórico de saúde veterinária
-tb_alerta      → alertas gerados por regras automáticas
-```
-
----
-
-## Equipe
-
-Projeto desenvolvido para a disciplina de Advanced Business Development with .NET — FIAP.
-
-Plataforma: SOLIN — Sistema de monitoramento de saúde de pets com IoT e IA.
